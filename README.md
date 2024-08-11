@@ -14,3 +14,8 @@
 2. pandas which is a data analysis library that provides a concept called data frame.
 3. matplotlib which is a two-dimensional plotting library for creating graphs and plots.
 4. scikit-learn which is one of the most popular maching learning libraries that provides all these common algorithms like decision trees neural networks and so on.
+
+##Dataset
+https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
+
+
