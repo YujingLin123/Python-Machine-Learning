@@ -18,11 +18,3 @@
 ## Dataset
 https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
 
-## Preparing the data
-import pandas as pd
-music_data = pd.read_csv('music.csv')
-X = music_data.drop(columns=['genre'])
-y = music_data['genre']
-y
-
-
